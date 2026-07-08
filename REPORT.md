@@ -118,7 +118,7 @@ sudo nmap --script smb-os-discovery,smb-enum-shares -p445 192.168.243.131
 - IPC$ readable.
 - Workgroup identified.
 
-![SMB Enumeration](screenshots/03_smb_enum.png)
+![SMB Enumeration](screenshots/03_ms17-010_scan.png)
 
 ---
 
@@ -148,7 +148,7 @@ CVE:
 
 CVE-2017-0143
 
-![MS17-010 Scan](screenshots/04_ms17-010_scan.png)
+![MS17-010 Scan](screenshots/04_smb_enum.png)
 
 ---
 
