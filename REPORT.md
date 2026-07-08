@@ -30,12 +30,6 @@ The assessment successfully achieved SYSTEM-level access through exploitation of
 
 ---
 
-# Lab Topology
-
-![Lab Topology](assets/lab-topology.png)
-
----
-
 # Methodology
 
 The assessment followed a standard penetration testing workflow:
@@ -180,7 +174,7 @@ windows/x64/meterpreter/reverse_tcp
 
 A Meterpreter session was successfully established.
 
-![Meterpreter Session](screenshots/05_meterpreter.png)
+![Meterpreter Session](screenshots/05_eternalblue_exploitation.png)
 
 ---
 
@@ -222,7 +216,7 @@ Working Directory:
 C:\Windows\System32
 ```
 
-![SYSTEM Access](screenshots/06_system_access.png)
+![SYSTEM Access](screenshots/06_meterpreter_system_access.png)
 
 ---
 
